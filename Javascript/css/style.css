@@ -1,0 +1,14 @@
+h1::first-letter {
+  color: pink;
+}
+
+div.header p { color:red;}
+
+button {
+  border: 1px 1px black;
+  padding: 3px;
+  color: blue;
+  font-weight: bold;
+  border-radius: 2px;
+
+}
